@@ -62,6 +62,10 @@ var data = {
 		name: linkify("Fortify", "http://getfortify.com"),
 		authors: "By Shashank Bhavimane, Thomas Hobohm"
 	}, {
+		name: linkify("Astronomer", "http://astronomer.io"),
+		authors: "Julian LaNeve"
+	}
+	}, {
 		name: specialify("Cool Project"),
 		authors: "By <span class='special'>you</span>? Contact us if you've made a cool project you'd like featured!"
 	}],
